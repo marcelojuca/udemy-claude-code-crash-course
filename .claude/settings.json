@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run /Users/mhcj/Downloads/github/udemy/claude-code-crash-course/hooks-notifications/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
